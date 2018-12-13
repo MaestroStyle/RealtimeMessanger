@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "882339435143",
+    "firebase_url": "https://realtimechat-f5dd5.firebaseio.com",
+    "project_id": "realtimechat-f5dd5",
+    "storage_bucket": "realtimechat-f5dd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882339435143:android:fb072bd04582c6b2",
+        "android_client_info": {
+          "package_name": "com.example.pardaigle.bestrealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882339435143-iigb13f664p8ea1usoaqj0nlrj9ncooi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pardaigle.bestrealtime",
+            "certificate_hash": "679b986807d1ccbba8eb2241985950b1ee54a242"
+          }
+        },
+        {
+          "client_id": "882339435143-c8ghqg28g6a8rc10etqvruc2e6tmki2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDOzSZL6hfe6_01BiIes2hxvuVQb8cD5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882339435143-c8ghqg28g6a8rc10etqvruc2e6tmki2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882339435143:android:8d2ec1b43466d7cf",
+        "android_client_info": {
+          "package_name": "com.example.pardaigle.realtimemessanger_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882339435143-7p0jar954d3ul4rp6upu7h7s55j625nh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pardaigle.realtimemessanger_",
+            "certificate_hash": "679b986807d1ccbba8eb2241985950b1ee54a242"
+          }
+        },
+        {
+          "client_id": "882339435143-c8ghqg28g6a8rc10etqvruc2e6tmki2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDOzSZL6hfe6_01BiIes2hxvuVQb8cD5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882339435143-c8ghqg28g6a8rc10etqvruc2e6tmki2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
